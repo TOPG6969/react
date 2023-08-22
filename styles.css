@@ -1,0 +1,9 @@
+
+  
+  /* Media query for devices with screen width up to 600px */@media only screen and (max-width: 600px) {
+    .search{
+         width: 70%;
+        background-color: lightcoral; /* just as an example change */
+    }
+  }
+  
